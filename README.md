@@ -34,6 +34,6 @@ This domain is for use in documentation examples without needing permission. Avo
 - Retrieval-augmented generation (RAG)
 - Converting public documentation and articles into clean Markdown
 
-Try the [live endpoint](https://md.replynodes.com). **OpenClaw/ClawHub skill: TODO** — the skill will be linked here once published.
+Try the [live endpoint](https://md.replynodes.com). **OpenClaw/ClawHub skill: [url-to-markdown](https://clawhub.ai/replynodes-ai/skills/url-to-markdown)**.
 
 Powered by [ReplyNodes](https://replynodes.com). Found a problem or have an idea? [Open an issue](https://github.com/replynodes/replynodes-markdown/issues).
