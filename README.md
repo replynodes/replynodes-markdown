@@ -8,23 +8,23 @@
 
 Put the URL after the production endpoint prefix:
 
-- Full URL: `https://md.replynodes.com/https://example.com`
-- Bare host, path, and query: `https://md.replynodes.com/example.com/?foo=bar`
+- Full URL: `https://md.replynodes.com/https://replynodes.com`
+- Bare host, path, and query: `https://md.replynodes.com/replynodes.com/?foo=bar`
 
 The prefix accepts either a complete URL or a bare host followed by its path and query string. Quote URLs in shell commands when they contain `?` or `&`.
 
 ```bash
-curl 'https://md.replynodes.com/example.com/?foo=bar'
+curl 'https://md.replynodes.com/replynodes.com/?foo=bar'
 ```
 
 Example response:
 
 ```markdown
-# Example Domain
+# The web context {API} for teams building AI products, agents, and workflows.
 
-This domain is for use in documentation examples without needing permission. Avoid use in operations.
+Agents ask. Nodes reply.
 
-[Learn more](https://iana.org/domains/example)
+Search the web, read social platforms, access app data, and scrape pages through one API.
 ```
 
 ### Useful for
